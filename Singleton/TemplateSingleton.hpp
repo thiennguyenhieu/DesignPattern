@@ -2,7 +2,6 @@
 #define TEMPLATE_SINGLETON_HPP
 
 #include <memory>
-#include <mutex>
 
 template <typename T>
 class Singleton

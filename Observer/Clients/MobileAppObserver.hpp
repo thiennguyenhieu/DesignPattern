@@ -1,7 +1,7 @@
 #ifndef MOBILEAPP_OBSERVER_HPP_
 #define MOBILEAPP_OBSERVER_HPP_
 
-#include "IObserver.hpp"
+#include "../Observer/IObserver.hpp"
 
 class MobileAppObserver : public IObserver {
 public:

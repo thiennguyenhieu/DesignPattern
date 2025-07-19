@@ -1,6 +1,6 @@
-#include "Observer\EventPublisher.hpp"
-#include "Clients\MobileAppObserver.hpp"
-#include "Clients\WebAppObserver.hpp"
+#include "Observer/EventPublisher.hpp"
+#include "Clients/MobileAppObserver.hpp"
+#include "Clients/WebAppObserver.hpp"
 
 int main()
 {

@@ -1,7 +1,7 @@
 #ifndef WEBAPP_OBSERVER_HPP_
 #define WEBAPP_OBSERVER_HPP_
 
-#include "IObserver.hpp"
+#include "../Observer/IObserver.hpp"
 
 class WebAppObserver : public IObserver {
 public:
